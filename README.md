@@ -35,10 +35,10 @@ The analysis is based on data from multiple sources, including:
 
 <div style="display: flex;">
   <div style="flex: 50%;">
-    <img src="URL_OF_FIRST_IMAGE" alt="First Screenshot">
+    <img src="Pizza Sales Report. capture.powerbi.com.jpeg" alt="First Screenshot">
   </div>
   <div style="flex: 50%;">
-    <img src="URL_OF_SECOND_IMAGE" alt="Second Screenshot">
+    <img src="page2.png" alt="Second Screenshot">
   </div>
 </div>
 
