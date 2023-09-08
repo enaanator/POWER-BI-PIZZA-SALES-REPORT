@@ -31,6 +31,17 @@ The analysis is based on data from multiple sources, including:
 4. **Interactive Visualizations**: User-friendly Power BI dashboards with interactive charts and graphs.
 5. **Customizable Reports**: Easily customizable to adapt to different pizza businesses' needs.
 
+## Dasboard Screenshots
+
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <img src="URL_OF_FIRST_IMAGE" alt="First Screenshot">
+  </div>
+  <div style="flex: 50%;">
+    <img src="URL_OF_SECOND_IMAGE" alt="Second Screenshot">
+  </div>
+</div>
+
 ## Installation
 
 1. Clone this repository to your local machine.
